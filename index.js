@@ -2,7 +2,7 @@ const { Telegraf } = require('telegraf');
 
 // Bot token va admin ID
 const BOT_TOKEN = '7945447391:AAFU9Gq58xFSMelJAbFjAYgZPW6PzJdVboQ';
-const ADMIN_ID = '6211650005';
+const ADMIN_ID = '777318750';
 
 // Debug rejimini yoqish
 const DEBUG = true;
